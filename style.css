@@ -88,11 +88,11 @@ button {
   flex-direction: column;
 }
 .img-galery img {
-  width: 100px;
+  width: 150px;
   padding: 0.5rem;
 }
 .big-img{
-  width: 200px !important;
+  width: 300px !important;
 }
 .card {
   width: 24rem;
