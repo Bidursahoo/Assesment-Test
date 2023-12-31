@@ -92,7 +92,7 @@ button {
   padding: 0.5rem;
 }
 .big-img{
-  width: 200px;
+  width: 200px !important;
 }
 .card {
   width: 24rem;
